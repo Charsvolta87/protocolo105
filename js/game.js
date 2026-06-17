@@ -152,7 +152,7 @@ function showScene(){
         scene.texto;
 
     text = text.replace(
-    "{nombre}",
+    /\{nombre\}/g,
     player.nombre
 );
 
