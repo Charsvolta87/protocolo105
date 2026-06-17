@@ -150,11 +150,11 @@ ya nada sería igual.`,
     capitulo1: {
         titulo: "Buen dia",
         imagen: "imagenes/placeholder.png",
-        texto: `Un día cualquiera
-Abrí los ojos antes de que sonara la alarma.
-La iluminación artificial de mi módulo personal acababa de cambiar del azul nocturno al blanco tenue que simulaba un amanecer.
-No existían amaneceres reales en Nueva Esperanza.
-Ni atardeceres, ni estaciones, ni lluvia. Todo era una simulación diseñada para que nuestros cerebros
+        texto: `Un día cualquiera abrí los ojos antes de que sonara la alarma.
+La iluminación artificial de mi módulo personal acababa de cambiar del azul nocturno
+al blanco tenue que simulaba un amanecer. No existían amaneceres reales.
+Ni atardeceres, ni estaciones, ni lluvia.
+Todo era una simulación diseñada para que nuestros cerebros
 no olvidaran que alguna vez pertenecimos a un planeta.
 Me quedé observando el techo durante unos segundos.
 Otro ciclo.
