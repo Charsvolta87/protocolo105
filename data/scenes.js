@@ -10,7 +10,8 @@ Nunca vi la Tierra.
 
 Nadie de mi generación la vio.
 
-La conocemos por archivos incompletos, grabaciones dañadas y relatos transmitidos durante generaciones como si fueran leyendas.`,
+La conocemos por archivos incompletos, grabaciones dañadas y relatos transmitidos durante generaciones
+como si fueran leyendas.`,
         opciones: [
             {
                 texto: "Continuar",
