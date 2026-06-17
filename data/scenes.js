@@ -124,13 +124,9 @@ ya nada sería igual`,
         ]
     },
     intro_final: {
-
     titulo: "Identificación",
-
     imagen: "imagenes/prologo/placeholder.png",
-
     texto: `Antes de acceder a los registros de comunicaciones debe identificarse.`,
-
     opciones: [
     {
         texto: "Identificarme",
@@ -149,19 +145,47 @@ ya nada sería igual`,
 
 
     capitulo1: {
-        titulo: "Inicio",
+        titulo: "Buen dia",
         imagen: "imagenes/placeholder.png",
-        texto: `La mañana del día 75 del año 178 todo parecía normal, hasta la hora 15:45, vino a buscarme Daniel para subir al comedor a desayunar. La noche anterior me quedé con Javi hasta tarde divagando acerca de cómo será llegar a Galiet.`,
+        texto: `Un día cualquiera
+Abrí los ojos antes de que sonara la alarma.
+La iluminación artificial de mi módulo personal acababa de cambiar del azul nocturno al blanco tenue que simulaba un amanecer.
+No existían amaneceres reales en Nueva Esperanza.
+Ni atardeceres, ni estaciones, ni lluvia. Todo era una simulación diseñada para que nuestros cerebros
+no olvidaran que alguna vez pertenecimos a un planeta.
+Me quedé observando el techo durante unos segundos.
+Otro ciclo.
+Otro día exactamente igual al anterior.`,
         opciones: [
             {
-                texto: "Aceptar",
+                texto: "Siguiente",
                 siguiente: "desayuno"
             },
+            
+        ]
+    },
+
+    desayuno: {
+        titulo: "Buen dia",
+        imagen: "imagenes/placeholder.png",
+        texto: `Un día cualquiera
+Abrí los ojos antes de que sonara la alarma.
+La iluminación artificial de mi módulo personal acababa de cambiar del azul nocturno al blanco tenue que simulaba un amanecer.
+No existían amaneceres reales en Nueva Esperanza.
+Ni atardeceres, ni estaciones, ni lluvia.
+`,
+        opciones: [
             {
-                texto: "No aceptar",
-                siguiente: "camarote"
+                texto: "Atrás",
+                siguiente: "capitulo1"
+            },
+            {
+                texto: "Continuar",
+                siguiente: "desayunar"
             }
         ]
-    }
+    },
+
+
 
 };
