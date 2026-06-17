@@ -168,11 +168,14 @@ Otro día exactamente igual al anterior.`,
     desayuno: {
         titulo: "Buen dia",
         imagen: "imagenes/placeholder.png",
-        texto: `Un día cualquiera
-Abrí los ojos antes de que sonara la alarma.
-La iluminación artificial de mi módulo personal acababa de cambiar del azul nocturno al blanco tenue que simulaba un amanecer.
-No existían amaneceres reales en Nueva Esperanza.
-Ni atardeceres, ni estaciones, ni lluvia.
+        texto: `Salí de mi módulo y me dirigí al comedor principal.
+El aroma del café sintético ya inundaba el corredor.
+No era café verdadero.
+Nadie recordaba cómo sabía el café verdadero.
+Pero era lo suficientemente parecido para engañar a la mayoría.
+En una mesa cercana, un grupo discutía sobre una falla en los sistemas de reciclaje.
+En otra, dos técnicos apostaban quién conseguiría una transferencia a una colonia exterior antes de terminar la órbita.
+Las mismas conversaciones de siempre.
 `,
         opciones: [
             {
