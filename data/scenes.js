@@ -18,7 +18,8 @@ En alguna parte del extenso universo la humanidad se encuentra a salvo, lejos de
     estacion: {
         imagen: "imagenes/prologo/estacion.png",
         texto: `En esta pequeña estación espacial los restos sobrevivientes de la raza humana intenta seguir con vida.
-Todo parece normal.`,
+
+        Todo parece normal.`,
 
         opciones: [
             {
