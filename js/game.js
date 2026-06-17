@@ -46,16 +46,20 @@ function showScene(){
     storyBox.innerText = text;
 }
 
-function nextScene(){
+function nextScene(){function nextScene(){
 
-    currentScene++;
+    if(currentScene === "inicio"){
+        currentScene = "estacion";
+    }
+    else if(currentScene === "estacion"){
+        currentScene = "senal";
+    }
+    else{
 
-    if(currentScene >= scenes.length){
-
-        storyBox.innerHTML =
-
-        `Fin de la demo.<br><br>
-        Gracias por jugar, ${playerName}.`;
+        storyBox.innerHTML = `
+            Fin de la demo.<br><br>
+            Gracias por jugar, ${playerName}.
+        `;
 
         nextBtn.style.display = "none";
 
